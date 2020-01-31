@@ -1,2 +1,17 @@
+@extends('master')
 
-<h2>About page</h2>
+@section('title', 'index')
+
+@section('content')
+  <h2>About page</h2>
+@endsection
+
+
+
+
+
+
+
+
+
+
